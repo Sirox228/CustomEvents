@@ -1,0 +1,27 @@
+{
+	"name":"CustomEvents",
+	"url":"https://github.com/Sirox228/CustomEvents",
+	"license":"MIT",
+	"tags":[
+		"Events",
+		"CustomEvents",
+		"haxeflixel",
+		"openfl",
+		"lime",
+		"windows",
+		"mac",
+		"linux",
+		"android"
+	],
+	"description":"A library for creating your own custom events",
+	"version":"1.0",
+	"contributors":[
+		"Sirox228"
+	],
+	"dependencies":{
+		"flixel":"",
+		"lime":"",
+		"openfl":""
+	},
+	"main":"customevents.Event"
+}
